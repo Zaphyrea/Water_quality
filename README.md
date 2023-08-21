@@ -15,7 +15,7 @@ The aim is to create a tool that can anticipate water quality variations using h
 
 - Reformulate the target ('Classification')
 
-_ Prepare data for AI model conception
+- Prepare data for AI model conception
 
 - Try a few classification models and select the most efficient (change hyperparameters for each one)
 
